@@ -100,7 +100,7 @@
                 Accuracy, F1-score
                 Graph of weekly mood trend
 
-10.     REQUIREMENT ANALYSIS(SRS POINTS) :
+10. REQUIREMENT ANALYSIS(SRS POINTS) :
     
         Functional Requirements :
                a) Input system for text/voice.
