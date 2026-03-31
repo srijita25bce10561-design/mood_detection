@@ -1,22 +1,23 @@
 1.  PROJECT TITLE:
+   
     Mood Detection System ( Prolog Language )
     
-2.  PROBLEM IDENTIFICATION:
+3.  PROBLEM IDENTIFICATION:
     In today’s fast-paced world, many students and working professionals struggle with stress and burnout but don’t openly talk about it. Early detection of stress or     negative emotions can help people take preventive actions.
 
-3.  OBJECTIVE:
+4.  OBJECTIVE:
     To build an AI-powered system that:
         a) Detects a user’s mood using ML/NLP techniques.
         b) Predicts stress levels from text or voice input.
         c) Recommends personalized activities (music, breathing exercises, journaling prompts, etc.) to improve wellbeing.
 
-4.   EXPECTED OUTCOMES:
+5.   EXPECTED OUTCOMES:
      A small app/website where users type or speak about their day.
      The system classifies mood: happy, stressed, anxious, sad, neutral.
      The model generates wellbeing recommendations.
      Dashboard showing weekly emotional trends.
 
-5.   CONCEPTS USED( AI AND ML ):
+6.   CONCEPTS USED( AI AND ML ):
      Natural Language Processing (NLP)
      Sentiment analysis
      Text vectorization: TF-IDF / Word Embeddings
@@ -24,7 +25,7 @@
      Optional: Deep Learning (LSTM, BERT)
      Data visualization
 
-6.   TOOLS AND LIBRARIES:
+7.   TOOLS AND LIBRARIES:
      A) Programming Language:
         Prolog (Used for implementing logic-based mood detection using rules and facts)
      B) Prolog Environment / Compiler:
@@ -33,7 +34,7 @@
         Notepad / Notepad++ / VS Code (Used to write and save the .pl program file )
      D) Here no external library is used , only built in logical predicates are used.
 
-7.   STRUCTURED DEVELOPMENT PROCESS:
+8.   STRUCTURED DEVELOPMENT PROCESS:
 
      Step 1: Data Collection:
              Use publicly available sentiment datasets like:
