@@ -23,23 +23,34 @@
 5.   CONCEPTS USED( AI AND ML ):
     
      Natural Language Processing (NLP)
+     
      Sentiment analysis
+     
      Text vectorization: TF-IDF / Word Embeddings
+     
      ML models: Logistic Regression / SVM / Random Forest / Naive Bayes
+     
      Optional: Deep Learning (LSTM, BERT)
+     
      Data visualization
 
-6.   TOOLS AND LIBRARIES:
+7.   TOOLS AND LIBRARIES:
     
      A) Programming Language:
+     
         Prolog (Used for implementing logic-based mood detection using rules and facts)
+     
      B) Prolog Environment / Compiler:
+     
         GNU Prolog (Used to write, compile, and execute the Prolog program)
+     
      C) Text Editor:
+     
         Notepad / Notepad++ / VS Code (Used to write and save the .pl program file )
+     
      D) Here no external library is used , only built in logical predicates are used.
 
-7.   STRUCTURED DEVELOPMENT PROCESS:
+9.   STRUCTURED DEVELOPMENT PROCESS:
 
      Step 1: Data Collection:
      
@@ -83,7 +94,7 @@
                 Accuracy, F1-score
                 Graph of weekly mood trend
 
-8.     REQUIREMENT ANALYSIS(SRS POINTS) :
+10.     REQUIREMENT ANALYSIS(SRS POINTS) :
     
         Functional Requirements :
                a) Input system for text/voice.
@@ -96,7 +107,7 @@
                b) Fast response time
                c) Secure data handling
 
-9. ALGORITHM DEVELOPMENT:
+11. ALGORITHM DEVELOPMENT:
 
           Sentiment Prediction Algorithm :
                a) Take input text.
