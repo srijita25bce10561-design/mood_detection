@@ -16,7 +16,7 @@
     
         c) Recommends personalized activities (music, breathing exercises, journaling prompts, etc.) to improve wellbeing.
 
-5.   EXPECTED OUTCOMES:
+4.   EXPECTED OUTCOMES:
    
      A small app/website where users type or speak about their day.
 
@@ -26,7 +26,7 @@
      
      Dashboard showing weekly emotional trends.
 
-7.   CONCEPTS USED( AI AND ML ):
+5.   CONCEPTS USED( AI AND ML ):
     
      Natural Language Processing (NLP)
      
@@ -40,7 +40,7 @@
      
      Data visualization
 
-8.   TOOLS AND LIBRARIES:
+6.   TOOLS AND LIBRARIES:
     
      A) Programming Language:
      
@@ -56,7 +56,7 @@
      
      D) Here no external library is used , only built in logical predicates are used.
 
-9.   STRUCTURED DEVELOPMENT PROCESS:
+7.   STRUCTURED DEVELOPMENT PROCESS:
 
      Step 1: Data Collection:
      
@@ -100,7 +100,7 @@
                 Accuracy, F1-score
                 Graph of weekly mood trend
 
-10. REQUIREMENT ANALYSIS(SRS POINTS) :
+8. REQUIREMENT ANALYSIS(SRS POINTS) :
     
         Functional Requirements :
                a) Input system for text/voice.
@@ -113,7 +113,7 @@
                b) Fast response time
                c) Secure data handling
 
-11. ALGORITHM DEVELOPMENT:
+9. ALGORITHM DEVELOPMENT:
 
           Sentiment Prediction Algorithm :
                a) Take input text.
