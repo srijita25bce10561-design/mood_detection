@@ -9,18 +9,24 @@
 3.  OBJECTIVE:
    
     To build an AI-powered system that:
+    
         a) Detects a user’s mood using ML/NLP techniques.
+
         b) Predicts stress levels from text or voice input.
+    
         c) Recommends personalized activities (music, breathing exercises, journaling prompts, etc.) to improve wellbeing.
 
-4.   EXPECTED OUTCOMES:
+5.   EXPECTED OUTCOMES:
    
      A small app/website where users type or speak about their day.
+
      The system classifies mood: happy, stressed, anxious, sad, neutral.
+     
      The model generates wellbeing recommendations.
+     
      Dashboard showing weekly emotional trends.
 
-5.   CONCEPTS USED( AI AND ML ):
+7.   CONCEPTS USED( AI AND ML ):
     
      Natural Language Processing (NLP)
      
@@ -34,7 +40,7 @@
      
      Data visualization
 
-7.   TOOLS AND LIBRARIES:
+8.   TOOLS AND LIBRARIES:
     
      A) Programming Language:
      
